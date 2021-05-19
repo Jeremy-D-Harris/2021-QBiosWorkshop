@@ -1,7 +1,6 @@
 2021 QBios Workshop - Building interactive dashboards
 ================
-Aroon T. Chande  
-Lavanya Rishishwar
+Aroon T. ChandeLavanya Rishishwar
 
 ## Getting started
 
